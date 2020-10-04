@@ -1,0 +1,2957 @@
+{
+    "DutyList": [
+        {
+            "DutyID": 577882,
+            "Urgency": "V",
+            "Subject": "Multiple days",
+            "Message": "",
+            "DutyStartDate": "2011-08-11 09:00:00",
+            "DutyEndDate": "2011-08-13 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "08/11/2011 - 08/13/2011",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": "2011-08-13 10:00:00"
+        },
+        {
+            "DutyID": 652017,
+            "Urgency": "N",
+            "Subject": "Vikash Rana recommended by Vikash Rana [Read Recommendation]",
+            "Message": "\r\rThe following data has been submitted...\r\rFirstName Vikash\r Last Name Rana\r Email Address vikash.kumar@netsolutions.com\r Email vikash.kumar@netsolutions.com\r Contact Number 9569671467\r Recommendation this is test \r\rCoach's Name Vikash Rana\rCoach's Email vikash.kumar@netsolutions.com",
+            "DutyStartDate": "2018-09-11 07:05:26",
+            "DutyEndDate": "2018-09-11 08:05:26",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "priority second"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "FRPassSetUp123 FRPassSetUp123"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "gaurav chaudhary"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "19198,19403,7016,19395",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 652023,
+            "Urgency": "N",
+            "Subject": "Vikash Rana recommended by Vikash Rana [Read Recommendation]",
+            "Message": "\r\rThe following data has been submitted...\r\rFirstName Vikash\r Last Name Rana\r Email Address vikash.kumar@netsolutions.com\r Email vikash.kumar@netsolutions.com\r Contact Number 9569671467\r Recommendation this is test \r\rCoach's Name Vikash Rana\rCoach's Email vikash.kumar@netsolutions.com\rCoach's Contact Number 9569671467",
+            "DutyStartDate": "2018-09-11 11:35:55",
+            "DutyEndDate": "2018-09-11 12:35:55",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "priority second"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "FRPassSetUp123 FRPassSetUp123"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "gaurav chaudhary"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "19198,19403,7016,19395",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 652024,
+            "Urgency": "N",
+            "Subject": "Vikash Rana Recruit Updated By Form",
+            "Message": "Vikash Rana Recruit Updated By Form\r\rThe following data has been submitted...\r\rLast Name Rana\r FirstName Vikash\r Graduation Year 2014\r High School req Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;\r First - Name Vikash\r High School Timberland High School;1418 Gravel Hill Road;;;St Stephen;SC;29479;USA;411433;\r Radiobut Radio2\r Movie Movie 1\r Textbox -> Textarea this is tets\r Email vikash.kumar@netsolutions.com\r Text Box textBox\r Drop Down Drop 2\r Check Box Check 2\r Radio Button Radio 2\r File Upload Yes\r Date 09/11/2018\r Birth Date 09/18/2018\r Date range 09/25/2018-09/27/2018\r Height 10 Feet 0 Inches\r Distance 15 Meter 0Centimeter\r Speed 14 HH 00 MM 00 SEC 000 MSEC \r Web Link test.com\r High School Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;\r Country India\r State IA",
+            "DutyStartDate": "2018-09-12 08:13:04",
+            "DutyEndDate": "2018-09-12 09:13:04",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "priority second"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "FRPassSetUp123 FRPassSetUp123"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "gaurav chaudhary"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "19198,19403,7016,19395",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 652026,
+            "Urgency": "N",
+            "Subject": "Vikash-13-09-2018 Vikash-13-09-2018 New Recruit Added By Form",
+            "Message": null,
+            "DutyStartDate": "2018-09-13 10:29:47",
+            "DutyEndDate": "2018-09-13 11:29:47",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "Vikash-13-09-2018 Vikash-13-09-2018",
+                    "PlayerType": "R",
+                    "PlayerID": 2800322
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "priority second"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "FRPassSetUp123 FRPassSetUp123"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "gaurav chaudhary"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "19198,19403,7016,19395",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 652027,
+            "Urgency": "N",
+            "Subject": "Rana Vikash New Recruit Added By Form",
+            "Message": null,
+            "DutyStartDate": "2018-09-13 10:41:36",
+            "DutyEndDate": "2018-09-13 11:41:36",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "Rana Vikash",
+                    "PlayerType": "R",
+                    "PlayerID": 2800323
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "priority second"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "FRPassSetUp123 FRPassSetUp123"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "gaurav chaudhary"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "19198,19403,7016,19395",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 652136,
+            "Urgency": "L",
+            "Subject": "New Duty",
+            "Message": "New Duty",
+            "DutyStartDate": "2018-10-18 09:00:00",
+            "DutyEndDate": "2018-10-18 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "gaurav chaudhary"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Manoj Paterwal"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "C",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "priority second"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29425,19395,29424,29417,29421,19198,7016,29427",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2018-10-20 00:00:00"
+        },
+        {
+            "DutyID": 652141,
+            "Urgency": "V",
+            "Subject": "Competition",
+            "Message": "ABC",
+            "DutyStartDate": "2018-10-18 09:00:00",
+            "DutyEndDate": "2018-10-18 12:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "gaurav chaudhary"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Manoj Paterwal"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "C",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "priority second"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29425,19395,29424,29417,29421,19198,7016,29427",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": "2018-10-18 12:00:00"
+        },
+        {
+            "DutyID": 652139,
+            "Urgency": "V",
+            "Subject": "Competition",
+            "Message": "Compliance event for test",
+            "DutyStartDate": "2018-10-19 09:00:00",
+            "DutyEndDate": "2018-10-19 12:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "gaurav chaudhary"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Manoj Paterwal"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "C",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "priority second"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29425,19395,29424,29417,29421,19198,7016,29427",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2018-10-19 00:00:00"
+        },
+        {
+            "DutyID": 652140,
+            "Urgency": "V",
+            "Subject": "Competition",
+            "Message": "Compliance event for test",
+            "DutyStartDate": "2018-10-20 09:00:00",
+            "DutyEndDate": "2018-10-20 12:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "gaurav chaudhary"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Manoj Paterwal"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "C",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "priority second"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29425,19395,29424,29417,29421,19198,7016,29427",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2018-10-19 00:00:00"
+        },
+        {
+            "DutyID": 652138,
+            "Urgency": "L",
+            "Subject": "New Duty",
+            "Message": "New Duty",
+            "DutyStartDate": "2018-10-20 09:00:00",
+            "DutyEndDate": "2018-10-20 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "gaurav chaudhary"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Manoj Paterwal"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "C",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "priority second"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29425,19395,29424,29417,29421,19198,7016,29427",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2018-10-20 00:00:00"
+        },
+        {
+            "DutyID": 652820,
+            "Urgency": "V",
+            "Subject": "Other",
+            "Message": "",
+            "DutyStartDate": "2019-02-27 09:00:00",
+            "DutyEndDate": "2019-02-27 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Greg DeLange"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal02 singh02"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal04 singh04"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal05 singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbalsingh singhsingh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "QA MasterQA"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mikes Test AccountCompAd"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush Testing"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Testing TakenUsername"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29421,29425,29458,29446,29443,29432,29433,29434,29431,29428,29456,29429,7016,29427,29454",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": "2019-02-27 10:00:00"
+        },
+        {
+            "DutyID": 652819,
+            "Urgency": "V",
+            "Subject": "Other",
+            "Message": "",
+            "DutyStartDate": "2019-02-27 16:00:00",
+            "DutyEndDate": "2019-02-27 16:20:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Greg DeLange"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal02 singh02"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal04 singh04"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal05 singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbalsingh singhsingh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "QA MasterQA"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mikes Test AccountCompAd"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush Testing"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Testing TakenUsername"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29421,29425,29458,29446,29443,29432,29433,29434,29431,29428,29456,29429,7016,29427,29454",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": "2019-02-27 23:00:00"
+        },
+        {
+            "DutyID": 652823,
+            "Urgency": "V",
+            "Subject": "Lifting/Conditioning",
+            "Message": "",
+            "DutyStartDate": "2019-02-28 09:00:00",
+            "DutyEndDate": "2019-02-28 10:00:00",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "Billy 0Rosterbb",
+                    "PlayerType": "O",
+                    "PlayerID": 2552555
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Greg DeLange"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal02 singh02"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal04 singh04"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal05 singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbalsingh singhsingh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "QA MasterQA"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mikes Test AccountCompAd"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush Testing"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Testing TakenUsername"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29421,29425,29458,29446,29443,29432,29433,29434,29431,29428,29456,29429,7016,29427,29454",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": "2019-02-28 10:00:00"
+        },
+        {
+            "DutyID": 653164,
+            "Urgency": "V",
+            "Subject": "11 march",
+            "Message": "",
+            "DutyStartDate": "2020-03-11 09:00:00",
+            "DutyEndDate": "2020-03-11 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Greg DeLange"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Harpal Boparai"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal02 singh02"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal04 singh04"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal05 singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbalsingh singhsingh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike AllInviteOnly"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush Testing"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush3 Lastname"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "QA MasterQA"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Saurabh Bhatia"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Testing TakenUsername"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29421,29425,29458,8946,29443,29446,29432,29433,29434,29431,29417,29467,29429,29430,29428,8928,7016,29427,29454",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": "2020-03-11 10:00:00"
+        },
+        {
+            "DutyID": 653168,
+            "Urgency": "N",
+            "Subject": "rakesh sharma New Alumnus Added By Form",
+            "Message": "rakesh sharma New Alumnus Added By Form\r\rThe following data has been submitted...\r\rFirst Name rakesh\r Last Name sharma\r FirstName dfdf\r First -- Name fdfdg\r High School Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;",
+            "DutyStartDate": "2020-03-12 13:23:14",
+            "DutyEndDate": "2020-03-12 14:23:14",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "rakesh sharma",
+                    "PlayerType": "A",
+                    "PlayerID": 2861498
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush Testing"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush3 Lastname"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbalsingh singhsingh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal04 singh04"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal05 singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Testing TakenUsername"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Greg DeLange"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal02 singh02"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike AllInviteOnly"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Saurabh Bhatia"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Harpal Boparai"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "QA MasterQA"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29427,29429,29430,29431,29433,29434,29443,29425,29454,29446,29421,29458,29432,29417,29467,8928,8946,7016,29428",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653517,
+            "Urgency": "V",
+            "Subject": "test 2020 questions questionner New Recruit Added By Form",
+            "Message": "test 2020 question questionner New Recruit Added By Form\r\rThe following data has been submitted...\r\rFirstName test 2020 question\r Last Name questionner\r High School req Indian Land High School;8361 Charlotte Highway;;;Ft Mill;SC;29715;USA;410775;\r First - Name cvcvc\r High School Conestee Baptist Day School;18 Second Street;PO Box 157;;Conestee;SC;29636;USA;410550;\r Radiobut Radio4\r Textbox -> Textarea dddd\r rrr abc abx\r Email iqbal.singh@netsolutions.com\r Drop Down Drop 1\r Text Box ddfdf\r Check Box Check 1\r Radio Button Radio 1\r File Upload Yes\r Date 06/03/2020\r Birth Date 06/06/2020\r Date range 06/01/2020-06/05/2020\r Height 0 Feet 0 Inches\r Distance 8 Meter 0Centimeter\r Speed 12 HH 00 MM 00 SEC 000 MSEC \r Web Link www.google.com\r High School Trinity Christian School;Post Office Box 1133;;;Iva;SC;29655;USA;411117;\r Country United States\r State DE",
+            "DutyStartDate": "2020-05-22 12:12:00",
+            "DutyEndDate": "2020-05-22 13:12:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Greg DeLange"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Harpal Boparai"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal02 singh02"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal04 singh04"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal05 singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbalsingh singhsingh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike AllInviteOnly"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush Testing"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush3 Lastname"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "QA MasterQA"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Saurabh Bhatia"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Testing TakenUsername"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29421,29425,29458,8946,29443,29446,29432,29433,29434,29431,29467,29417,29429,29430,29428,8928,7016,29427,29454",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653607,
+            "Urgency": "N",
+            "Subject": "iqbal singh Recruit Updated By Form",
+            "Message": "iqbal singh Recruit Updated By Form\r\rThe following data has been submitted...\r\rFirstName iqbal\r Last Name singh\r City NC\r High School req Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;\r First - Name ss\r High School South Carolina School Girls;4650 Broad River Road;;;Columbia;SC;29210;USA;410540;\r Radiobut Radio1\r Textbox -> Textarea ssdd\r rrr ddd\r Email iqbal.singh@netsolutions.com\r Drop Down Drop 1\r Text Box xxx\r Check Box Check 1\r Radio Button Radio 1\r File Upload Yes\r Date 07/22/2020\r Birth Date 07/29/2020\r Date range 07/20/2020-07/28/2020\r Height 1 Feet 0 Inches\r Distance 0 Meter 0Centimeter\r Speed 02 HH 00 MM 00 SEC 000 MSEC \r Web Link www.google.com\r High School Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;\r Country India\r State IL",
+            "DutyStartDate": "2020-07-09 13:42:29",
+            "DutyEndDate": "2020-07-09 14:42:29",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "iqbal singh",
+                    "PlayerType": "R",
+                    "PlayerID": 2861345
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush Testing"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush3 Lastname"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbalsingh singhsingh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal04 singh04"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal05 singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Testing TakenUsername"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Greg DeLange"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal02 singh02"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike AllInviteOnly"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Saurabh Bhatia"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Harpal Boparai"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mikes Test AccountCompAd"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "QA MasterQA"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29427,29429,29430,29431,29433,29434,29443,29425,29454,29446,29421,29458,29432,29417,29467,8928,8946,29456,7016,29428",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653618,
+            "Urgency": "N",
+            "Subject": "Mia Abalos Recruit Updated By Form",
+            "Message": "Mia Abalos Recruit Updated By Form\r\rThe following data has been submitted...\r\rFirstName Mia\r Last Name Abalos\r High School req Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;\r First - Name ddd\r High School Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;\r Radiobut Radio1\r Textbox -> Textarea cccc\r rrr ccc\r Email gaurav@mailinator.com\r Drop Down Drop 1\r Text Box xxxx\r Check Box Check 1\r Radio Button Radio 1\r File Upload Yes\r Date 07/31/2020\r Birth Date 07/31/2020\r Date range 07/28/2020-07/31/2020\r Height 1 Feet 0 Inches\r Distance 19 Meter 0Centimeter\r Speed 17 HH 00 MM 00 SEC 000 MSEC \r Web Link www.google.com\r High School Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;\r Country India\r State ID",
+            "DutyStartDate": "2020-07-14 07:53:49",
+            "DutyEndDate": "2020-07-14 08:53:49",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "Mia Abalos",
+                    "PlayerType": "R",
+                    "PlayerID": 2861310
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush Testing"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush3 Lastname"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbalsingh singhsingh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal04 singh04"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal05 singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Testing TakenUsername"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Greg DeLange"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal02 singh02"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike AllInviteOnly"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Saurabh Bhatia"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Harpal Boparai"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mikes Test AccountCompAd"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "QA MasterQA"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29427,29429,29430,29431,29433,29434,29443,29425,29454,29446,29421,29458,29432,29417,29467,8928,8946,29456,7016,29428",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653622,
+            "Urgency": "N",
+            "Subject": "Alexander Akshar Recruit Updated By Form",
+            "Message": "Alexander Akshar Recruit Updated By Form\r\rThe following data has been submitted...\r\rFirstName Alexander\r Last Name Akshar\r High School req Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;\r First - Name abcd\r High School Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;\r Radiobut Radio1\r Textbox -> Textarea test\r rrr test\r Email 2552617@mailinator.com\r Drop Down Drop 1\r Text Box test\r Check Box Check 1\r Radio Button Radio 1\r File Upload Yes\r Date 07/20/2020\r Birth Date 07/20/2020\r Date range 07/26/2020-07/30/2020\r Height 10 Feet 0 Inches\r Distance 15 Meter 0Centimeter\r Speed 16 HH 00 MM 00 SEC 000 MSEC \r Web Link www.google.com\r High School Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;\r Country India\r State CA",
+            "DutyStartDate": "2020-07-15 13:23:30",
+            "DutyEndDate": "2020-07-15 14:23:30",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "Alexander Akshar",
+                    "PlayerType": "R",
+                    "PlayerID": 2552617
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush Testing"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush3 Lastname"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbalsingh singhsingh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal04 singh04"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal05 singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Testing TakenUsername"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Greg DeLange"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal02 singh02"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike AllInviteOnly"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Saurabh Bhatia"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Harpal Boparai"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mikes Test AccountCompAd"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "QA MasterQA"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29427,29429,29430,29431,29433,29434,29443,29425,29454,29446,29421,29458,29432,29417,29467,8928,8946,29456,7016,29428",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653623,
+            "Urgency": "N",
+            "Subject": "amber deep New Recruit Added By Form",
+            "Message": "amber deep New Recruit Added By Form\r\rThe following data has been submitted...\r\rFirstName amber\r Last Name deep\r High School req Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;\r First - Name test\r High School Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;\r Radiobut Radio2\r Textbox -> Textarea tests\r rrr ttt\r Email iqbal.singh@netsolutions.com\r Drop Down Drop 2\r Text Box iqbal\r Check Box Check 1\r Radio Button Radio 1\r File Upload Yes\r Date 07/21/2020\r Birth Date 07/28/2020\r Date range 07/29/2020-07/31/2020\r Height 5 Feet 0 Inches\r Distance 16 Meter 0Centimeter\r Speed 17 HH 00 MM 00 SEC 000 MSEC \r Web Link www.google.com\r High School Tabernacle Christian High Sch;3931 White Horse Road;;;Greenville;SC;29611;USA;410904;\r Country India\r State IL",
+            "DutyStartDate": "2020-07-17 12:18:08",
+            "DutyEndDate": "2020-07-17 13:18:08",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "amber deep",
+                    "PlayerType": "R",
+                    "PlayerID": 2861640
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush Testing"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush3 Lastname"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbalsingh singhsingh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal04 singh04"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal05 singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Testing TakenUsername"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Greg DeLange"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal02 singh02"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike AllInviteOnly"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Saurabh Bhatia"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Harpal Boparai"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mikes Test AccountCompAd"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "QA MasterQA"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29427,29429,29430,29431,29433,29434,29443,29425,29454,29446,29421,29458,29432,29417,29467,8928,8946,29456,7016,29428",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653670,
+            "Urgency": "N",
+            "Subject": "kumar aaaDeepk Recruit Updated By Form",
+            "Message": "kumar aaaDeepk Recruit Updated By Form\r\rThe following data has been submitted...\r\rFirstName kumar\r Last Name aaaDeepk\r High School req Testing Unit;4100 Normal Street Annex 3;;;San Diego;CA;92103;USA;052842;\r First - Name test\r High School Temple Baptist Christian Sch;120 Pinewood Road;;;Sumter;SC;29150;USA;411939;\r Radiobut Radio1\r Textbox -> Textarea rtt\r rrr test\r Email 2790246@mailinator.com\r Drop Down Drop 1\r Text Box teee\r Check Box Check 1\r Radio Button Radio 1\r File Upload Yes\r Date 07/30/2020\r Birth Date 08/01/2020\r Date range 07/01/2020-07/31/2020\r Height 6 Feet 0 Inches\r Distance 16 Meter 0Centimeter\r Speed 14 HH 00 MM 00 SEC 000 MSEC \r Web Link www.google.com\r High School Testing Unit;4100 Normal Street Annex 3;;;San Diego;CA;92103;USA;052842;\r Country India\r State AZ",
+            "DutyStartDate": "2020-07-31 13:30:46",
+            "DutyEndDate": "2020-07-31 14:30:46",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "kumar aaaDeepk",
+                    "PlayerType": "R",
+                    "PlayerID": 2790246
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush Testing"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush3 Lastname"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbalsingh singhsingh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal04 singh04"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal05 singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Testing TakenUsername"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Greg DeLange"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal02 singh02"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike AllInviteOnly"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Saurabh Bhatia"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Harpal Boparai"
+                        },
+                        {
+                            "DutyStatus": "C",
+                            "Name": "Mikes Test AccountCompAd"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "QA MasterQA"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29427,29429,29430,29431,29433,29434,29443,29425,29454,29446,29421,29458,29432,29417,29467,8928,8946,29456,7016,29428",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653687,
+            "Urgency": "V",
+            "Subject": "Aqdqwd",
+            "Message": null,
+            "DutyStartDate": "2020-08-14 13:42:00",
+            "DutyEndDate": "2020-08-14 13:42:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Greg DeLange"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Harpal Boparai"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal02 singh02"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal04 singh04"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal05 singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbalsingh singhsingh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike AllInviteOnly"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mikes Test AccountCompAd"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush Testing"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush3 Lastname"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "QA MasterQA"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Saurabh Bhatia"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Testing TakenUsername"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29421,29425,29458,8946,29443,29446,29432,29433,29434,29431,29417,29467,29456,29429,29430,29428,8928,7016,29427,29454",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653702,
+            "Urgency": "V",
+            "Subject": "16 aug test",
+            "Message": "test msg",
+            "DutyStartDate": "2020-08-16 09:00:00",
+            "DutyEndDate": "2020-08-17 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Harpal Boparai"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "8946,29443,7016",
+            "MultiDay": "08/16/2020 - 08/17/2020",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "0 ",
+            "Until": "2020-08-17 10:00:00"
+        },
+        {
+            "DutyID": 653707,
+            "Urgency": "V",
+            "Subject": "16 aug test",
+            "Message": "test msg",
+            "DutyStartDate": "2020-08-16 09:00:00",
+            "DutyEndDate": "2020-08-17 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Harpal Boparai"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "8946,29443,7016",
+            "MultiDay": "08/16/2020 - 08/17/2020",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "0 ",
+            "Until": "2020-08-17 10:00:00"
+        },
+        {
+            "DutyID": 653698,
+            "Urgency": "V",
+            "Subject": "16 aug test",
+            "Message": "16 aug test msg",
+            "DutyStartDate": "2020-08-18 09:00:00",
+            "DutyEndDate": "2020-08-19 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Harpal Boparai"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "8946,29443,7016",
+            "MultiDay": "08/18/2020 - 08/19/2020",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "0 ",
+            "Until": "2020-08-17 10:00:00"
+        },
+        {
+            "DutyID": 653762,
+            "Urgency": "V",
+            "Subject": "Cgd gtd v",
+            "Message": "",
+            "DutyStartDate": "2020-08-21 09:00:00",
+            "DutyEndDate": "2020-08-21 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": "2020-08-21 11:00:00"
+        },
+        {
+            "DutyID": 653780,
+            "Urgency": "V",
+            "Subject": "Dough ",
+            "Message": "",
+            "DutyStartDate": "2020-09-04 09:00:00",
+            "DutyEndDate": "2020-09-04 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": "2020-09-04 11:00:00"
+        },
+        {
+            "DutyID": 653781,
+            "Urgency": "V",
+            "Subject": "Food ",
+            "Message": "",
+            "DutyStartDate": "2020-09-04 09:00:00",
+            "DutyEndDate": "2020-09-04 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": "2020-09-04 11:00:00"
+        },
+        {
+            "DutyID": 653783,
+            "Urgency": "V",
+            "Subject": "Digging ",
+            "Message": "",
+            "DutyStartDate": "2020-09-07 09:00:00",
+            "DutyEndDate": "2020-09-07 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": "2020-09-07 11:00:00"
+        },
+        {
+            "DutyID": 653788,
+            "Urgency": "V",
+            "Subject": "Fresh ",
+            "Message": "",
+            "DutyStartDate": "2020-09-07 09:00:00",
+            "DutyEndDate": "2020-09-07 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": "2020-09-07 11:00:00"
+        },
+        {
+            "DutyID": 653789,
+            "Urgency": "V",
+            "Subject": "Hydro ",
+            "Message": "",
+            "DutyStartDate": "2020-09-09 09:00:00",
+            "DutyEndDate": "2020-09-09 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653791,
+            "Urgency": "V",
+            "Subject": "Daily duty",
+            "Message": "",
+            "DutyStartDate": "2020-09-10 09:00:00",
+            "DutyEndDate": "2020-09-10 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-15 10:00:00"
+        },
+        {
+            "DutyID": 653798,
+            "Urgency": "V",
+            "Subject": "Daily duty test",
+            "Message": "",
+            "DutyStartDate": "2020-09-10 09:00:00",
+            "DutyEndDate": "2020-09-10 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-11 11:00:00"
+        },
+        {
+            "DutyID": 653799,
+            "Urgency": "V",
+            "Subject": "Daily duty test",
+            "Message": "",
+            "DutyStartDate": "2020-09-11 09:00:00",
+            "DutyEndDate": "2020-09-11 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-11 11:00:00"
+        },
+        {
+            "DutyID": 653792,
+            "Urgency": "V",
+            "Subject": "Daily duty",
+            "Message": "",
+            "DutyStartDate": "2020-09-11 09:00:00",
+            "DutyEndDate": "2020-09-11 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-15 10:00:00"
+        },
+        {
+            "DutyID": 653809,
+            "Urgency": "V",
+            "Subject": "Athlete test",
+            "Message": "",
+            "DutyStartDate": "2020-09-11 09:00:00",
+            "DutyEndDate": "2020-09-11 10:00:00",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "Gaurav Chaudhary",
+                    "PlayerType": "R",
+                    "PlayerID": 2800319
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653810,
+            "Urgency": "V",
+            "Subject": "Basketball test",
+            "Message": "",
+            "DutyStartDate": "2020-09-11 09:00:00",
+            "DutyEndDate": "2020-09-11 10:00:00",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "Manoj Chaudhary",
+                    "PlayerType": "R",
+                    "PlayerID": 2861436
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29425,7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653801,
+            "Urgency": "V",
+            "Subject": "Athlete test",
+            "Message": "",
+            "DutyStartDate": "2020-09-11 10:00:00",
+            "DutyEndDate": "2020-09-11 11:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653806,
+            "Urgency": "V",
+            "Subject": "Athlete test",
+            "Message": "",
+            "DutyStartDate": "2020-09-11 10:00:00",
+            "DutyEndDate": "2020-09-11 11:00:00",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "Gaurav Chaudhary",
+                    "PlayerType": "R",
+                    "PlayerID": 2800319
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653807,
+            "Urgency": "V",
+            "Subject": "Athlete test",
+            "Message": "",
+            "DutyStartDate": "2020-09-11 10:00:00",
+            "DutyEndDate": "2020-09-11 11:00:00",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "Gaurav Chaudhary",
+                    "PlayerType": "R",
+                    "PlayerID": 2800319
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653800,
+            "Urgency": "V",
+            "Subject": "Daily duty test",
+            "Message": "",
+            "DutyStartDate": "2020-09-12 09:00:00",
+            "DutyEndDate": "2020-09-12 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-11 11:00:00"
+        },
+        {
+            "DutyID": 653793,
+            "Urgency": "V",
+            "Subject": "Daily duty",
+            "Message": "",
+            "DutyStartDate": "2020-09-12 09:00:00",
+            "DutyEndDate": "2020-09-12 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-15 10:00:00"
+        },
+        {
+            "DutyID": 653811,
+            "Urgency": "V",
+            "Subject": "Cricket test ",
+            "Message": "",
+            "DutyStartDate": "2020-09-12 09:00:00",
+            "DutyEndDate": "2020-09-12 10:00:00",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "John 7even",
+                    "PlayerType": "R",
+                    "PlayerID": 2541070
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653812,
+            "Urgency": "V",
+            "Subject": "Gifting ",
+            "Message": "",
+            "DutyStartDate": "2020-09-12 11:00:00",
+            "DutyEndDate": "2020-09-12 12:00:00",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "John 7even",
+                    "PlayerType": "R",
+                    "PlayerID": 2541070
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653794,
+            "Urgency": "V",
+            "Subject": "Daily duty",
+            "Message": "",
+            "DutyStartDate": "2020-09-13 09:00:00",
+            "DutyEndDate": "2020-09-13 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-15 10:00:00"
+        },
+        {
+            "DutyID": 653795,
+            "Urgency": "V",
+            "Subject": "Daily duty",
+            "Message": "",
+            "DutyStartDate": "2020-09-14 09:00:00",
+            "DutyEndDate": "2020-09-14 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-15 10:00:00"
+        },
+        {
+            "DutyID": 653820,
+            "Urgency": "V",
+            "Subject": "Judge ",
+            "Message": "",
+            "DutyStartDate": "2020-09-14 09:00:00",
+            "DutyEndDate": "2020-09-14 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653824,
+            "Urgency": "V",
+            "Subject": "Trying ",
+            "Message": "",
+            "DutyStartDate": "2020-09-14 09:00:00",
+            "DutyEndDate": "2020-09-14 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-15 11:00:00"
+        },
+        {
+            "DutyID": 653821,
+            "Urgency": "V",
+            "Subject": "Effective ",
+            "Message": "",
+            "DutyStartDate": "2020-09-14 10:00:00",
+            "DutyEndDate": "2020-09-14 11:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-15 12:00:00"
+        },
+        {
+            "DutyID": 653825,
+            "Urgency": "V",
+            "Subject": "Trying ",
+            "Message": "",
+            "DutyStartDate": "2020-09-15 09:00:00",
+            "DutyEndDate": "2020-09-15 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-15 11:00:00"
+        },
+        {
+            "DutyID": 653796,
+            "Urgency": "V",
+            "Subject": "Daily duty",
+            "Message": "",
+            "DutyStartDate": "2020-09-15 09:00:00",
+            "DutyEndDate": "2020-09-15 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-15 10:00:00"
+        },
+        {
+            "DutyID": 653827,
+            "Urgency": "S",
+            "Subject": "Style ",
+            "Message": "",
+            "DutyStartDate": "2020-09-15 11:00:00",
+            "DutyEndDate": "2020-09-15 12:00:00",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "7h 7hy",
+                    "PlayerType": "R",
+                    "PlayerID": 2541115
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653826,
+            "Urgency": "V",
+            "Subject": "Trying ",
+            "Message": "",
+            "DutyStartDate": "2020-09-16 09:00:00",
+            "DutyEndDate": "2020-09-16 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-15 11:00:00"
+        },
+        {
+            "DutyID": 653797,
+            "Urgency": "V",
+            "Subject": "Daily duty",
+            "Message": "",
+            "DutyStartDate": "2020-09-16 09:00:00",
+            "DutyEndDate": "2020-09-16 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-15 10:00:00"
+        },
+        {
+            "DutyID": 653823,
+            "Urgency": "V",
+            "Subject": "Effective ",
+            "Message": "",
+            "DutyStartDate": "2020-09-16 10:00:00",
+            "DutyEndDate": "2020-09-16 11:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-15 12:00:00"
+        },
+        {
+            "DutyID": 653832,
+            "Urgency": "V",
+            "Subject": "FSU ",
+            "Message": "",
+            "DutyStartDate": "2020-09-23 09:00:00",
+            "DutyEndDate": "2020-09-23 10:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653836,
+            "Urgency": "V",
+            "Subject": "Dynamic ",
+            "Message": "",
+            "DutyStartDate": "2020-09-23 11:00:00",
+            "DutyEndDate": "2020-09-23 12:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-24 13:00:00"
+        },
+        {
+            "DutyID": 653839,
+            "Urgency": "V",
+            "Subject": "test repeat",
+            "Message": "",
+            "DutyStartDate": "2020-09-23 11:00:00",
+            "DutyEndDate": "2020-09-23 12:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-24 00:00:00"
+        },
+        {
+            "DutyID": 653840,
+            "Urgency": "V",
+            "Subject": "test repeat",
+            "Message": "",
+            "DutyStartDate": "2020-09-24 11:00:00",
+            "DutyEndDate": "2020-09-24 12:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-24 00:00:00"
+        },
+        {
+            "DutyID": 653837,
+            "Urgency": "V",
+            "Subject": "Dynamic ",
+            "Message": "",
+            "DutyStartDate": "2020-09-24 11:00:00",
+            "DutyEndDate": "2020-09-24 12:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-24 13:00:00"
+        },
+        {
+            "DutyID": 653843,
+            "Urgency": "N",
+            "Subject": "ddff mfmf New Recruit Added By Form",
+            "Message": "ddff mfmf New Recruit Added By Form\r\rThe following data has been submitted...\r\rFirstName ddff\r Last Name mfmf\r High School req South Carolina School Girls;4650 Broad River Road;;;Columbia;SC;29210;USA;410540;\r First - Name sjuje\r High School Easley High School;510 Pendleton Street;;;Easley;SC;29640;USA;410685;\r Radiobut Radio2\r Textbox -> Textarea ss\r rrr sss\r Email iqbal.singh@netsolutions.com\r Drop Down Drop 1\r Text Box ddd\r Check Box Check 1\r Radio Button Radio 1\r File Upload Yes\r Date 10/06/2020\r Birth Date 09/14/2020\r Date range 09/14/2020-09/30/2020\r Height 10 Feet 0 Inches\r Distance 16 Meter 0Centimeter\r Speed 15 HH 00 MM 00 SEC 000 MSEC \r Web Link www.google.com\r High School Cambridge Academic Lrng Cntr;1721 HIGHWAY 544;POST OFFICE BOX 477;;CONWAY;SC;29526;USA;410554;\r Country India\r State FL",
+            "DutyStartDate": "2020-09-24 13:57:46",
+            "DutyEndDate": "2020-09-24 14:57:46",
+            "PlayerID": null,
+            "Players": [
+                {
+                    "PlayerName": "ddff mfmf",
+                    "PlayerType": "R",
+                    "PlayerID": 2861682
+                }
+            ],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "test emails"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush Testing"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Oct25TestPush3 Lastname"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbalsingh singhsingh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal04 singh04"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal05 singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Chaudhary Manoj"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Testing TakenUsername"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal singh"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Admin Admin"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Greg DeLange"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "iqbal02 singh02"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike FR"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mike AllInviteOnly"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Saurabh Bhatia"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Harpal Boparai"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Mikes Test AccountCompAd"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        },
+                        {
+                            "DutyStatus": "A",
+                            "Name": "QA MasterQA"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "29427,29429,29430,29431,29433,29434,29443,29425,29454,29446,29421,29458,29432,29417,29467,8928,8946,29456,7016,29428",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": 0,
+            "Repeat": "-1",
+            "Until": null
+        },
+        {
+            "DutyID": 653838,
+            "Urgency": "V",
+            "Subject": "Dynamic ",
+            "Message": "",
+            "DutyStartDate": "2020-09-25 11:00:00",
+            "DutyEndDate": "2020-09-25 12:00:00",
+            "PlayerID": null,
+            "Players": [],
+            "dutyStatus": "A",
+            "DutyAssignment": {
+                "AssignedTo": {
+                    "Cstb": [
+                        {
+                            "DutyStatus": "A",
+                            "Name": "Sean PatrickWilsonJones"
+                        }
+                    ]
+                }
+            },
+            "CoachORStaffRecieverID": "7016",
+            "MultiDay": "",
+            "MessageID": 0,
+            "DutyType": -1,
+            "Repeat": "0 ",
+            "Until": "2020-09-24 13:00:00"
+        }
+    ],
+    "DutyYearList": [
+        {
+            "DutyStartYear": 2011,
+            "DutyEndYear": 2020
+        }
+    ]
+}
