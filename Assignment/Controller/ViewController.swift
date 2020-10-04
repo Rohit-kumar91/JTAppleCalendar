@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var dutiesTableview: UITableView!
     @IBOutlet weak var prevBtn: UIButton!
     @IBOutlet weak var nextBtn: UIButton!
+    @IBOutlet weak var lblMonth: UILabel!
     
     //MARK:- Properties
     var numberOfRows = 6
@@ -53,6 +54,13 @@ extension ViewController {
         
         calendarView.selectDates([Date()])
         calendarView.scrollToDate(Date() , animateScroll: false)
+        
+        calendarView.visibleDates { (visibleDate) in
+            let date = visibleDate.monthDates.first!.date
+            let formatter = DateFormatter()
+            formatter.dateFormat = "MMMM yyyy"
+            self.lblMonth.text = formatter.string(from: date)
+        }
     }
     
 }
@@ -123,7 +131,16 @@ extension ViewController: JTACMonthViewDelegate {
     }
 
     func calendarSizeForMonths(_ calendar: JTACMonthView?) -> MonthSize? {
-        return MonthSize(defaultSize: 60)
+        return MonthSize(defaultSize: 0)
+    }
+    
+    func calendar(_ calendar: JTACMonthView, didScrollToDateSegmentWith visibleDates: DateSegmentInfo) {
+        
+        let date = visibleDates.monthDates.first!.date
+        let formatter = DateFormatter()
+        formatter.dateFormat = "MMMM yyyy"
+        lblMonth.text = formatter.string(from: date)
+        
     }
       
     
@@ -154,7 +171,7 @@ extension ViewController: CalendarSelectedDateDelegate {
         
         
         dutiesArray = selectedDuties.sorted(by: {
-            $0.startDate!.compare($1.endDate!) == .orderedDescending
+            ($0.startDate ?? Date()).compare($1.endDate ?? Date()) == .orderedDescending
         })
         dutiesTableview.reloadData()
     }
